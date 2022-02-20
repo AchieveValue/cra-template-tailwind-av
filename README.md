@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to cra-tailwind-template 👋</h1>
+<h1 align="center">Welcome to cra-template-tailwind-av 👋</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D8.1.2-blue.svg" />
