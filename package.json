@@ -1,0 +1,20 @@
+{
+  "name": "cra-tailwind-template",
+  "version": "0.1.0",
+  "description": "This project is a Create-React-App Boilerplate featuring common packages such as TailwindCSS, Framer Motion, React-Router-Dom and default configurations for them.",
+  "keywords": [],
+  "author": "Andrei Bunea <andreibunea@achievevalue.tech> (https://achievevalue.tech/)",
+  "license": "MIT",
+  "homepage": "https://github.com/AchieveValue/cra-tailwind-template#readme",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AchieveValue/cra-tailwind-template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AchieveValue/cra-tailwind-template/issues"
+  },
+  "engines": {
+    "npm": ">=8.1.2",
+    "node": ">=16.13.1"
+  }
+}
