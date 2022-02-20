@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to cra-tailwind-template 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-0.2.0-blue.svg?cacheSeconds=2592000" />
   <img src="https://img.shields.io/badge/npm-%3E%3D8.1.2-blue.svg" />
   <img src="https://img.shields.io/badge/node-%3E%3D16.13.1-blue.svg" />
   <a href="#" target="_blank">
@@ -13,7 +13,7 @@
 
 > This project is a Create-React-App Boilerplate featuring common packages such as TailwindCSS, Framer Motion, React-Router-Dom and default configurations for them.
 
-### 🏠 [Homepage](https://github.com/AchieveValue/cra-tailwind-template#readme)
+### 🏠 [Homepage](https://github.com/AchieveValue/cra-template-tailwind-av#readme)
 
 ## Prerequisites
 
@@ -23,7 +23,7 @@
 ## Install
 
 ```sh
-npm install
+npx create-react-app test2 --template tailwind-av
 ```
 
 ## Author
@@ -36,7 +36,7 @@ npm install
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AchieveValue/cra-tailwind-template/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AchieveValue/cra-template-tailwind-av/issues). 
 
 ## Show your support
 
