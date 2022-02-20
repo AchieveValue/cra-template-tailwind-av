@@ -23,7 +23,7 @@
 ## Install
 
 ```sh
-npx create-react-app test2 --template tailwind-av
+npx create-react-app my-app --template tailwind-av
 ```
 
 ## Author
